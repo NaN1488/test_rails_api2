@@ -1,3 +1,9 @@
+PATH
+  remote: /Users/nan/g2/g2_api_bootstrap
+  specs:
+    g2_api_bootstrap (0.1.7)
+      railties (~> 4.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -100,6 +106,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  g2_api_bootstrap!
   rails (= 4.2.1)
   rails-api
   spring

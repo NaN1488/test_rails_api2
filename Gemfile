@@ -10,6 +10,7 @@ gem 'spring', :group => :development
 
 gem 'sqlite3'
 
+gem 'g2_api_bootstrap', path: '/Users/nan/g2/g2_api_bootstrap'
 
 
 # To use ActiveModel has_secure_password
